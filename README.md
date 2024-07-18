@@ -2,7 +2,7 @@
 
 ### Goal of the project:
 
-The project aimed to discover trends and relations in the sales data as well as to monitor business performance based on user-centric and revenue-centric KPIs. 
+The project aimed to discover trends and relationships in the sales data as well as to monitor business performance based on user-centric and revenue-centric KPIs. 
 
 ### The dataset:
 Link to the [source](https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset).
@@ -11,7 +11,9 @@ The dataset collected on Kaggle contains two tables:
 - orders.csv
 - product-supplier.csv
 
-Columns descriptions:
+Columns descriptions: 
+
+
 Orders.csv:
 - Customer ID - Unique identifier of each customer
 - Customer Status - Priority of a customer (Silver, Gold, Platinum)
@@ -22,6 +24,7 @@ Orders.csv:
 - Quantity Ordered - Number of items per order
 - Total Retail Price - Total price for the order (assumed currency: dollars)
 - Cost Price Per Unit - Cost of a single product (assumed currency: dollars)
+
 
 Product-supplier.csv:
 - Product ID - Unique identifier of each product
@@ -34,9 +37,9 @@ Product-supplier.csv:
 - Supplier ID - Unique identifier of each supplier
 
 Prior to the analysis the data was cleaned/preprocessed in the following way:
-- Formating of Customer Status column in orders.csv was unified
-- Date Order was placed column was renamed to Order Date
-- Total Retail Price was divided by the Quantity Ordered to obtain Unit Price per Unit column
+- Formatting of "Customer Status" column in orders.csv was unified
+- "Date Order was placed" column was renamed to Order Date
+- "Total Retail Price" was divided by the "Quantity Ordered" to obtain "Price per Unit" column
 
 #### The KPIs used in the project:
 User-centric KPIs:
