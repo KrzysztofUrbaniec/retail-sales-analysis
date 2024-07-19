@@ -4,6 +4,9 @@
 
 The project aimed to discover trends and relationships in the sales data as well as to monitor business performance based on user-centric and revenue-centric KPIs. 
 
+
+Files with extension .sql contain all queries used during the analysis. There is also an Excel file (Charts.xlsx), that contains dashboards and visualizations.
+
 ### The dataset:
 Link to the [source](https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset).
 
