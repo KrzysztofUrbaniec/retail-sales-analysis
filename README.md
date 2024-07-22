@@ -1,5 +1,7 @@
 ## RETAIL SALES ANALYSIS
 
+![Report](https://github.com/KrzysztofUrbaniec/retail-sales-analysis/blob/main/png/Report.png)
+
 ### Goal of the project:
 
 The project aimed to discover trends and relationships in the sales data as well as to monitor business performance based on user-centric and revenue-centric KPIs. 
